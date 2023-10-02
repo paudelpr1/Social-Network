@@ -1,6 +1,6 @@
 # Social-Network
 
-#Description:
+##Description:
 In a social network, relationships between users can be modeled using a graph. For instance, if a user x “follows” a user y, the x follows y relation can be modeled as a directed graph which includes an edge from vertex x to vertex y.
 
 Your task is to use the breadth-first search algorithm studied in class and similar techniques for analyzing the characteristics of a graph in a social networking application. In developing your solution, you are to use the DiGraph.java class provided by the instructor. Data for your program will be obtained from text files in which each line contains the names of two users corresponding to a follows relationship in the network.
